@@ -1,0 +1,8 @@
+# ninja log v6
+4	663	7670577898089556	include/glad/glad.h	4ce824d2313aa14
+4	663	7670577898089556	src/glad.c	4ce824d2313aa14
+4	663	7670577898089556	C:/Users/Zak/source/repos/openGLTest/vcpkg_installed/vcpkg/blds/glad/x64-windows-dbg/include/glad/glad.h	4ce824d2313aa14
+4	663	7670577898089556	C:/Users/Zak/source/repos/openGLTest/vcpkg_installed/vcpkg/blds/glad/x64-windows-dbg/src/glad.c	4ce824d2313aa14
+665	863	7670577898493300	CMakeFiles/glad.dir/src/glad.c.obj	eed6ba72b87c43b6
+863	939	7670577900530143	glad.lib	e0d0a804501fb7b3
+940	1005	7670577901293065	CMakeFiles/install.util	810570aca49f05cb
